@@ -31,4 +31,3 @@ Evolution-like algorithm that suggests the survival of the best ones from many c
 ### References
 * http://letstalkdata.com/2013/12/n-queens-part-1-steepest-hill-climbing/
 * http://letstalkdata.com/2013/12/n-queens-part-2-more-algorithms/
-* https://developers.google.com/optimization/puzzles/queens
